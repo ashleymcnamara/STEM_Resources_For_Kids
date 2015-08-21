@@ -1,4 +1,4 @@
-# STEM_Resources_For_Kids
+# STEM Resources For Kids
 A list of STEM resources for kids 
 
 ## **Cool STEM Websites**
