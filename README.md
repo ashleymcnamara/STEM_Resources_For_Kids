@@ -102,6 +102,8 @@ A list of STEM resources for kids
 
 [**Move the Turtle:**](https://itunes.apple.com/us/app/move-turtle.-programming-for/id509013878?mt=8) Programming for Kids App: You don’t have to be a computer genius to code! With this app, any kid can learn the ABCs of programming in a graphic environment.
 
+[**Robot Turtles:**](http://www.robotturtles.com/) Programming tabletop game for kids 4+. Play directional and special action cards to move turtles across a gameboard to the objective. Gameplay can also be altered to include functions - group multiple actions/directions in a repeatable pattern, then call that function with the function card.
+
 ## **Math Games and Apps**
 
 [**Geometry Quest App:**](https://play.google.com/store/apps/details?id=com.brockenbrough.geometryquest&hl=en) Travel the world by solving geometry challenges along the way. You’ll receive passport stamps for perfect quests. Covers Common Core standards 3MD, 3G, 4MD, 5G, 6G, 7G and 8G.
