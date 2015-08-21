@@ -78,6 +78,8 @@ A list of STEM resources for kids
 
 ## **Science Games and Apps**
 
+[**Hopscotch (Make your own games):**](https://www.gethopscotch.com/) Hopscotch is easy to use, but don’t let that fool you. It’s a powerful language. Explore computer science fundamentals like abstraction, variables, conditionals, loops, and more—while making stuff that you actually want to play.
+
 [**Virtual Frog Dissection:**](http://www.mhhe.com/biosci/genbio/virtual_labs/BL_16/BL_16.html) All of the education with none of the guts. This app allows you to wield virtual dissection tools to uncover the mysteries of amphibian anatomy.
 
 [**Solar System for iPad:**](https://itunes.apple.com/us/app/solar-system-for-ipad/id406795422?mt=8) Explore the universe on your tablet with stunning visuals, 150-plus story pages, images from the Mars rover Curiosity and a 3-D orrery that lets you control the orbits of planets and their moons.
