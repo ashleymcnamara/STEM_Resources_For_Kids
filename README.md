@@ -3,6 +3,8 @@ A list of STEM resources for kids
 
 ## **Cool STEM Websites**
 
+[**Zooniverse:**](https://www.zooniverse.org/#/) The Zooniverse provides opportunities for people around the world to contribute to real discoveries in fields ranging from astronomy to zoology. Welcome to the largest online platform for collaborative volunteer research.
+
 [**LearnToMod:**](http://www.learntomod.com/) Online and interactive. Mod Minecraft in your browser. Tutorials and puzzles help you unlock badges and learn to code.
 
 [**Lego Mindstorms:**](http://www.lego.com/en-us/mindstorms/learn-to-program) Discover the magic of bringing your robot to life! Complete 25 cool missions in the free EV3 programming software. Make your robot do exactly what you want it to do!
@@ -161,4 +163,11 @@ A list of STEM resources for kids
 ## **Teachers/Educators**
 
 [**Nano Science & Engineering Outreach Education Classroom Program:**](http://www.nisenet.org/catalog/programs/nano_science_engineering_outreach_education_classroom_program) This hour long classroom program introduces nano science and nanotechnology as a leading, cutting edge science with an emphasis on nano in nature, health, energy and the environment
+
+[**Lynda:**](http://www.lynda.com/default.aspx) lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. Through individual, corporate, academic and government subscriptions, members have access to the lynda.com video library of engaging, top-quality courses taught by recognized industry experts. The company also provides German, French and Spanish language content under the video2brain brand name.
+
+[**Code School:**](https://www.codeschool.com/) Learn by Doing; Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
+
+[**Pluralsight:**](http://www.pluralsight.com/academic) Your curriculum. Amplified. Prepare your students for the jobs of tomorrow, today. Give them the freedom to boost their tech & creative skills anytime, anywhere.
+
 
