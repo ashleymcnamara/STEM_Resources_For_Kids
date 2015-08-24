@@ -3,6 +3,9 @@ A list of STEM resources for kids
 
 ## **Cool STEM Websites**
 
+[**Khan Academy:**](https://www.khanacademy.org/) A free learning resource tailored for your child.
+Your child will get a personalized learning dashboard that will guide them through each subject like a personal coach while using state-of-the-art, adaptive technology that identifies strengths and learning gaps while suggesting skills to practice. Your child will also receive fun rewards along the way like badges, energy points, and avatars.
+
 [**Sheppard Software:**](http://www.sheppardsoftware.com/) 
 Sheppard Software aims to create content and games for their website with these goals:
 1) To add sound and visual effects to make learning fun and more memorable. 
