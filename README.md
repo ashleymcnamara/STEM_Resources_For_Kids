@@ -3,6 +3,12 @@ A list of STEM resources for kids
 
 ## **Cool STEM Websites**
 
+[**Sheppard Software:**](http://www.sheppardsoftware.com/) 
+Sheppard Software aims to create content and games for their website with these goals:
+1) To add sound and visual effects to make learning fun and more memorable. 
+2) To design games with many difficulty levels so that players will continue to be challenged no matter how far they progress. 
+3) To provide games that will exercise players' brains
+
 [**Zooniverse:**](https://www.zooniverse.org/#/) The Zooniverse provides opportunities for people around the world to contribute to real discoveries in fields ranging from astronomy to zoology. Welcome to the largest online platform for collaborative volunteer research.
 
 [**LearnToMod:**](http://www.learntomod.com/) Online and interactive. Mod Minecraft in your browser. Tutorials and puzzles help you unlock badges and learn to code.
@@ -109,6 +115,8 @@ A list of STEM resources for kids
 [**Robot Turtles:**](http://www.robotturtles.com/) Programming tabletop game for kids 4+. Play directional and special action cards to move turtles across a gameboard to the objective. Gameplay can also be altered to include functions - group multiple actions/directions in a repeatable pattern, then call that function with the function card.
 
 ## **Math Games and Apps**
+
+[**Cool Math Games:**](http://www.coolmath-games.com/) Coolmath.com offers "math for ages 13-100" -- explanations that are easy to grasp on topics like algebra, pre-calculus and more. The creator started his career as a math teacher, and he takes great pleasure in helping people finally understand -- and even enjoy! -- doing math.
 
 [**Geometry Quest App:**](https://play.google.com/store/apps/details?id=com.brockenbrough.geometryquest&hl=en) Travel the world by solving geometry challenges along the way. You’ll receive passport stamps for perfect quests. Covers Common Core standards 3MD, 3G, 4MD, 5G, 6G, 7G and 8G.
 
