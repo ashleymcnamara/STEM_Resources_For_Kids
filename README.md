@@ -158,5 +158,7 @@ A list of STEM resources for kids
 
 [**Head First Software Development:**](http://www.amazon.com/Head-First-Software-Development-Pilone/dp/0596527357/ref=sr_1_4?s=books&ie=UTF8&qid=1440182113&sr=1-4&keywords=head+first) Even the best developers have seen well-intentioned software projects fail -- often because the customer kept changing requirements, and end users didn't know how to use the software you developed. Instead of surrendering to these common problems, let Head First Software Development guide you through the best practices of software development. Before you know it, those failed projects will be a thing of the past.
 
+## **Teachers/Educators**
 
+[**Nano Science & Engineering Outreach Education Classroom Program:**](http://www.nisenet.org/catalog/programs/nano_science_engineering_outreach_education_classroom_program) This hour long classroom program introduces nano science and nanotechnology as a leading, cutting edge science with an emphasis on nano in nature, health, energy and the environment
 
