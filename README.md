@@ -127,7 +127,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Mystery Math Town:**](https://itunes.apple.com/us/app/mystery-math-town/id619404402?mt=8) Your mission, should you choose to accept it, is to rescue the fireflies hidden in Mystery Math Town. Be warned: you’ll need your math skills to unlock all the rooms and passages on your quest!
 
-## **STEM Camps**
+## **STEM Camps and Programs**
 
 [**Camp Reach:**](https://www.wpi.edu/academics/k12/camp-reach.html) From constructing the perfect shoe to building the ultimate ice cream sundae, this two-week summer camp at Worcester Polytechnic Institute in Massachusetts is designed to stretch your engineering imagination. For girls entering seventh grade.
 
@@ -156,6 +156,8 @@ Sheppard Software aims to create content and games for their website with these 
 [**Science Explorers:**](https://scienceexplorers.com/) Sharks and submarines, potions and slime, castles and catapults .. whatever you love, these science summer camps have just the activity for you. Offered in Pennsylvania, New Jersey and Delaware.
 
 [**Youth Digital Summer Camps:**](http://www.youthdigitalcamps.com/) Design 3-D models for Minecraft, create your own video game or even direct a 3-D animation! These camps focused on digital technology are held in various southern cities. For kids age 8 to 16.
+
+[**CoderDojo**](https://coderdojo.com/) Over 1,900 free, open, inclusive and local volunteer-led programming clubs for young people in over 100 countries.  
 
 ## **Books**
 
