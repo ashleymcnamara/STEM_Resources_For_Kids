@@ -1,0 +1,34 @@
+name: Stale Issues
+
+on:
+  schedule:
+    - cron: '30 6 * * *' # Daily at 6:30 UTC
+  workflow_dispatch: # Allow manual runs for testing
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  stale:
+    name: Close stale issues
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mark and close stale issues
+        uses: actions/stale@v9
+        with:
+          days-before-stale: 90
+          days-before-close: 14
+          stale-issue-label: stale
+          stale-issue-message: >
+            This issue has been automatically marked as stale because it
+            hasn't had any activity in 90 days. It will be closed in 14 days
+            if no further activity occurs. If this is still relevant, leave
+            a comment or remove the `stale` label and it'll stay open.
+          close-issue-message: >
+            This issue has been closed due to inactivity. If you think it
+            should be reopened, feel free to comment and a maintainer can
+            reopen it. Thanks for helping improve STEM resources for kids!
+          exempt-issue-labels: resource-suggestion
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
