@@ -36,7 +36,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**The Big Brain Theory – Discovery Channel:**](http://www.discovery.com/tv-shows/the-big-brain-theory/) Competitors on this TV show have just 30 minutes to come up with a solution to an (seemingly) impossible engineering challenge.
 
-[**Bill Nye the Science Guy:**](http://billnye.com/) Bill’s entertaining television episodes cover everything from comets to the science of music. Have some fun with his [home demos](http://billnye.com/for-kids-teachers/home-demos/).
+[**Bill Nye the Science Guy:**](https://billnye.com/) Bill's entertaining television episodes cover everything from comets to the science of music. Have some fun with his home demos on [billnye.com](https://billnye.com/).
 
 [**SciJinks:**](http://www.mastersindatascience.org/blog/the-ultimate-stem-guide-for-kids-239-cool-sites-about-science-technology-engineering-and-math/) It’s all about the weather. The National Oceanic and Atmospheric Association (NOAA) and NASA put together this educational website to teach kids about meteorology and earth science. Check out their [games section](http://scijinks.jpl.nasa.gov/menu/games/).
 
@@ -48,7 +48,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Helping Your Child Learn Mathematics:**](http://www2.ed.gov/parents/academic/help/math/index.html) Your parents might be interested in this. Curated by the U.S. Department of Education, this website contains math activities (to be completed at home, at the store and on the go) for preschoolers and elementary kids.
 
-[**NASA Kids’ Club:**](https://www.nasa.gov/audience/forkids/kidsclub/flash/) At NASA Kids’ Club, it’s perfectly okay to fool around in space. You can use your science and math skills to explore Mars, construct a fleet of rockets or search for NASA spinoffs in your garage.
+[**NASA Kids' Club:**](https://www.nasa.gov/learning-resources/) At NASA Kids' Club, it's perfectly okay to fool around in space. You can use your science and math skills to explore Mars, construct a fleet of rockets or search for NASA spinoffs in your garage.
 
 [**NASA Space Place:**](http://spaceplace.nasa.gov/) Build your own spacecraft, play space volcanoes or browse through a gallery of sun images. When you’re at the Space Place, the universe is the limit.
 
@@ -135,7 +135,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Students with Potential and Interest, Considering Engineering (S.P.I.C.E.):**](http://www.wie.umd.edu/k12/spice-camp) Build a new world. Through activities, projects, tours and talks at the University of Maryland, College Park, you’ll learn how engineering is being used to change the face of the planet. For girls entering ninth and 10th grades.
 
-[**iD Game Design & Development Academy:**](https://www.idtech.com/teens/game-design-development/) These two-week summer camps offer an intensive submersion in game development, programming, design, 3-D modeling and animation. Choose from courses in Minecraft, Unreal® Engine, Maya®, iPhone® and more. For teens age 13 to 18.
+[**iD Game Design & Development Academy:**](https://www.idtech.com/) These two-week summer camps offer an intensive submersion in game development, programming, design, 3-D modeling and animation. Choose from courses in Minecraft, Unreal® Engine, Maya®, iPhone® and more. For teens age 13 to 18.
 
 [**Science and Engineering Apprenticeship Program (SEAP):**](https://seap.asee.org/) Interested in science or math? Then you could intern for eight weeks at a Department of Navy (DoN) laboratory. Most labs require students to be 16 years of age (though 15-year-olds will sometimes be allowed).
 
@@ -179,7 +179,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Lynda:**](http://www.lynda.com/default.aspx) lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. Through individual, corporate, academic and government subscriptions, members have access to the lynda.com video library of engaging, top-quality courses taught by recognized industry experts. The company also provides German, French and Spanish language content under the video2brain brand name.
 
-[**Code School:**](https://www.codeschool.com/) Learn by Doing; Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
+[**Code School (now Pluralsight):**](https://www.pluralsight.com/) Learn by Doing; Code School (now part of Pluralsight) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 
 [**Pluralsight:**](http://www.pluralsight.com/academic) Your curriculum. Amplified. Prepare your students for the jobs of tomorrow, today. Give them the freedom to boost their tech & creative skills anytime, anywhere.
 
