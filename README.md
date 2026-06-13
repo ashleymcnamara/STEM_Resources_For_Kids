@@ -18,7 +18,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Lego Mindstorms:**](http://www.lego.com/en-us/mindstorms/learn-to-program) Discover the magic of bringing your robot to life! Complete 25 cool missions in the free EV3 programming software. Make your robot do exactly what you want it to do!
 
-[**Women@NASA:**](http://women.nasa.gov/) Meet the women you want to be. This NASA site includes video interviews and biographies of NASA employees, as well as info on careers, events and outreach programs. Energy.gov has a sister site called [Women@Energy](http://energy.gov/diversity/listings/women-energy).
+[**Women@NASA:**](http://women.nasa.gov/) Meet the women you want to be. This NASA site includes video interviews and biographies of NASA employees, as well as info on careers, events and outreach programs. The Department of Energy has also supported programs encouraging women in STEM fields.
 
 [**CanTEEN:**](http://canteengirl.org/) CanTEEN was developed to help girls explore STEM careers. Take a challenge (such as creating your own urban garden), play games like [“Click! Spy School”](http://clickspyschool.org/) or learn more about real-life role models.
 
@@ -28,7 +28,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**For Girls in Science:**](http://www.prettybrainy.com/pretty-brainy-ted-talk/?gclid=Cj0KEQjwmNuuBRDTu5rDjr2kxJsBEiQAWlm6UlJUgjqZZTSG2LrL0QMY_aqIEcIPmqSDnMt20pR_FygaAnpE8P8HAQ) Be what you want to be. Sponsored by L’Oréal, this site offers all kinds of STEM options, including a video blog, profiles of women in science, a list of summer camps and info about careers.
 
-[**Girl Scouts STEM Program:**](http://www.girlscouts.org/en/our-program/ways-to-participate/series/imagine-stem.html) Push your limits as you make the world a better place. To support STEM experiences, the Girl Scouts have developed three leadership journeys and a number of STEM proficiency badges.
+[**Girl Scouts STEM Program:**](https://www.girlscouts.org/en/activities-for-girls/for-every-girl/stem-activities-science-technology-engineering-math.html) Push your limits as you make the world a better place. To support STEM experiences, the Girl Scouts have developed three leadership journeys and a number of STEM proficiency badges.
 
 [**Society of Women Engineers (SWE) K-12 Outreach:** ](http://societyofwomenengineers.swe.org/k-12-outreach)Aspire to be great. You’ll find a huge variety of engineering resources on this site, including links to activities, competitions, camps and scholarships.
 
@@ -46,7 +46,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Funology:**](http://www.funology.com/) At Funology, science is bound to get interactive. Make a tornado with water. Build a Jurassic Park terrarium. Or, simply torment your siblings with endless jokes about bugs and insects.
 
-[**Helping Your Child Learn Mathematics:**](http://www2.ed.gov/parents/academic/help/math/index.html) Your parents might be interested in this. Curated by the U.S. Department of Education, this website contains math activities (to be completed at home, at the store and on the go) for preschoolers and elementary kids.
+[**Helping Your Child Learn Mathematics:**](https://www.ed.gov/birth-grade-12-education/resources-families) Your parents might be interested in this. Curated by the U.S. Department of Education, this website contains math activities (to be completed at home, at the store and on the go) for preschoolers and elementary kids.
 
 [**NASA Kids' Club:**](https://www.nasa.gov/learning-resources/) At NASA Kids' Club, it's perfectly okay to fool around in space. You can use your science and math skills to explore Mars, construct a fleet of rockets or search for NASA spinoffs in your garage.
 
@@ -60,7 +60,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**DiscoverE:**](http://www.discovere.org/) Thinking about engineering? DiscoverE has a selection of resources on careers, preparing for college and research schools. You might also want to check out their list of videos, trips, websites and hands-on [activities](http://www.discovere.org/our-activities).
 
-[**Student Science:**](https://student.societyforscience.org/sciencenews-students) A central spot for science news, blogs, resources and information about Intel competitions. Sample article titles include “Native ‘snot'” and “A library with no books.”
+[**Science News Explores:**](https://www.snexplores.org/) (formerly Student Science) A hub for science news, explainers and resources for students of all ages.
 
 [**TechRocket:**](https://www.techrocket.com/) Neat tool for exploring programming languages, 2D and 3D game design, and more. Use the promo code “MIDSFREE” to get a free first month!
 
@@ -72,7 +72,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**NASA Education for Students:**](https://www.nasa.gov/audience/forstudents/index.html) Career information, image galleries, NASA Television, features and articles … whatever you’d like to know about aerospace, you’re sure to find it here.
 
-[**NASA Science, Engineering, Mathematics and Aerospace Academy (SEMAA):**](http://www.nasa.gov/centers/glenn/education/SEMAA_GRC.html) SEMAA was developed to increase the participation of historically underserved K-12 youth in STEM fields. School activities and summer sessions are held throughout the nation.
+[**NASA STEM Engagement:**](https://www.nasa.gov/learning-resources/for-kids-and-students/) NASA offers a wide range of STEM learning resources, activities, and programs for K-12 students, including opportunities for historically underserved youth.
 
 [**NOVA:**](http://www.pbs.org/wgbh/nova/) The website for PBS’s popular science show is overflowing with videos and articles. Explore the wonders of evolution, nature, physics, math—practically any STEM subject that rings your bell.
 
@@ -82,9 +82,9 @@ Sheppard Software aims to create content and games for their website with these 
 
 ## **Government STEM Initiatives**
 
-[**Educate to Innovate:**](https://www.whitehouse.gov/issues/education/k-12/educate-innovate) Launched in 2009, Educate to Innovate aims to move U.S. students from the middle to the top of the heap in science and math achievement. It’s spawned a number of federal efforts and philanthropic initiatives (see below).
+**Educate to Innovate:** Launched in 2009, this federal initiative aimed to move U.S. students to the top in science and math achievement. The original program page is no longer available, but its legacy lives on through numerous STEM education initiatives nationwide.
 
-[**Women in STEM:**](https://www.whitehouse.gov/administration/eop/ostp/women) In collaboration with the White House Council on Women and Girls, the Office of Science and Technology Policy (OSTP) has instigated a number of efforts to increase the participation of girls in STEM subjects.
+**Women in STEM:** The Office of Science and Technology Policy (OSTP) has supported numerous efforts to increase the participation of girls and women in STEM subjects. *(Original program page is no longer available.)*
 
 
 ## **Science Games and Apps**
@@ -97,7 +97,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**National Geographic Apps:**](http://www.nationalgeographic.com/apps/) National Geographic has plenty to keep you entertained on a dull day. Top-rated apps include National Parks and the World Atlas.
 
-[**Algebra Touch App:**](https://itunes.apple.com/us/app/algebra-touch/id384354262?mt=8) Get a refresher on your algebra skills with this touch-based tool. Tap to simplify, drag to rearrange and draw lines to eliminate identical terms.
+**Algebra Touch App:** *(No longer available on the App Store.)* A touch-based algebra tool that let you tap to simplify, drag to rearrange, and draw lines to eliminate identical terms.
 
 [**Auditorium:**](http://www.cipherprime.com/games/auditorium/) The Online Experience: Auditorium is a beautiful and challenging puzzle with many different solutions. One game reviewer called it “part puzzle game, part light sculpture, part musical instrument.”
 
@@ -121,7 +121,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Cool Math Games:**](http://www.coolmath-games.com/) Coolmath.com offers "math for ages 13-100" -- explanations that are easy to grasp on topics like algebra, pre-calculus and more. The creator started his career as a math teacher, and he takes great pleasure in helping people finally understand -- and even enjoy! -- doing math.
 
-[**Geometry Quest App:**](https://play.google.com/store/apps/details?id=com.brockenbrough.geometryquest&hl=en) Travel the world by solving geometry challenges along the way. You’ll receive passport stamps for perfect quests. Covers Common Core standards 3MD, 3G, 4MD, 5G, 6G, 7G and 8G.
+**Geometry Quest App:** *(No longer available on Google Play.)* A geometry challenge game covering Common Core standards 3MD, 3G, 4MD, 5G, 6G, 7G and 8G.
 
 [**Math Blaster:**](http://www.mathblaster.com/) Do you have what it takes to save the galaxy? You’re going to need your math skills to complete your training missions in this free online game.
 
@@ -129,7 +129,7 @@ Sheppard Software aims to create content and games for their website with these 
 
 ## **STEM Camps and Programs**
 
-[**Camp Reach:**](https://www.wpi.edu/academics/k12/camp-reach.html) From constructing the perfect shoe to building the ultimate ice cream sundae, this two-week summer camp at Worcester Polytechnic Institute in Massachusetts is designed to stretch your engineering imagination. For girls entering seventh grade.
+[**Camp Reach:**](https://www.wpi.edu/academics/stem-education-center/programs/camp-reach) From constructing the perfect shoe to building the ultimate ice cream sundae, this two-week summer camp at Worcester Polytechnic Institute in Massachusetts is designed to stretch your engineering imagination. For girls entering seventh grade.
 
 [**Girls’ Adventures in Mathematics, Engineering, and Science (G.A.M.E.S.):**](http://publish.illinois.edu/womeninengineering/) Be part of a state-of-the-art engineering or science lab this summer! At the University of Illinois’s G.A.M.E.S., you’ll work on challenging camp projects and meet mentors in technical fields. For rising nine through 12th graders.
 
