@@ -20,8 +20,6 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Women@NASA:**](http://women.nasa.gov/) Meet the women you want to be. This NASA site includes video interviews and biographies of NASA employees, as well as info on careers, events and outreach programs. The Department of Energy has also supported programs encouraging women in STEM fields.
 
-[**CanTEEN:**](http://canteengirl.org/) CanTEEN was developed to help girls explore STEM careers. Take a challenge (such as creating your own urban garden), play games like [“Click! Spy School”](http://clickspyschool.org/) or learn more about real-life role models.
-
 [**Engineer Girl!:**](http://www.engineergirl.org/) Why should you become an engineer? Let this website for middle school girls explain. Along with interviews, quizzes, fun facts and profiles, it has links to scores of engineering contests, clubs, programs and scholarships.
 
 [**Engineer Your Life:**](http://www.engineeryourlife.org/) Dream big and love what you do. This guide to engineering for high school girls is packed with profiles of inspiring women, great tips for college prep and helpful job tools.
@@ -52,17 +50,11 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**NASA Space Place:**](http://spaceplace.nasa.gov/) Build your own spacecraft, play space volcanoes or browse through a gallery of sun images. When you’re at the Space Place, the universe is the limit.
 
-[**TechRocket:**](https://www.techrocket.com/) Learn programming languages, graphic design in Photoshop, and more! Use the promo code “MIDSFREE” to get a free first month!
-
-[**Arrick Robotics:**](http://www.arrickrobotics.com/) This isnt' the prettiest website in the world, but if you’re looking for robotics resources, this is the place to be. Includes lists of competitions and contests, groups and clubs, games and simulation.
-
 [**Codeacademy:**](https://www.codecademy.com/) Learn to code interactively (and for free). Codeacademy offers coding classes in major programming languages like Python, PHP, jQuery, JavaScript and Ruby.
 
 [**DiscoverE:**](http://www.discovere.org/) Thinking about engineering? DiscoverE has a selection of resources on careers, preparing for college and research schools. You might also want to check out their list of videos, trips, websites and hands-on [activities](http://www.discovere.org/our-activities).
 
 [**Science News Explores:**](https://www.snexplores.org/) (formerly Student Science) A hub for science news, explainers and resources for students of all ages.
-
-[**TechRocket:**](https://www.techrocket.com/) Neat tool for exploring programming languages, 2D and 3D game design, and more. Use the promo code “MIDSFREE” to get a free first month!
 
 [**Code.org:**](https://code.org/) No one is too young (or old, I might add) to code. Learn how to build an iPhone game, write your first computer program, draw in JavaScript and much more.
 
@@ -85,7 +77,6 @@ Sheppard Software aims to create content and games for their website with these 
 **Educate to Innovate:** Launched in 2009, this federal initiative aimed to move U.S. students to the top in science and math achievement. The original program page is no longer available, but its legacy lives on through numerous STEM education initiatives nationwide.
 
 **Women in STEM:** The Office of Science and Technology Policy (OSTP) has supported numerous efforts to increase the participation of girls and women in STEM subjects. *(Original program page is no longer available.)*
-
 
 ## **Science Games and Apps**
 
@@ -137,14 +128,6 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**iD Game Design & Development Academy:**](https://www.idtech.com/) These two-week summer camps offer an intensive submersion in game development, programming, design, 3-D modeling and animation. Choose from courses in Minecraft, Unreal® Engine, Maya®, iPhone® and more. For teens age 13 to 18.
 
-[**Science and Engineering Apprenticeship Program (SEAP):**](https://seap.asee.org/) Interested in science or math? Then you could intern for eight weeks at a Department of Navy (DoN) laboratory. Most labs require students to be 16 years of age (though 15-year-olds will sometimes be allowed).
-
-[**Camp Euclid:**](https://euclidlab.org/programs/camp-euclid) A Mathematics Research Camp: Participate from virtually anywhere! Camp Euclid’s six-week summer camps are held online. Collaborate with fellow students on solution-defying math problems.
-
-[**Engineering Summer Camps:**](http://www.engineeringedu.com/store/index.php?route=information/information&information_id=8) Fancy some problem-solving this summer? The Engineering Education Service Center has put together a state-by-state list of engineering summer camps.
-
-[**Physics Wonder Girls at Indiana Wesleyan University:**](http://spas.cis.indwes.edu/iwu-dns/) Funded by a grant from the National Science Foundation, the Physics Wonder Girls camp offers middle school girls the opportunity to take part in hands-on physics experiments, projects, physics-based games, and science tours.
-
 [**Zero Robotics Middle School Summer Program:**](http://zerorobotics.mit.edu/tournaments/19/) Launch yourself into computer programming, robotics and space engineering. MIT’s five-week STEM curriculum will immerse you in space and provide you with hands-on experience programming SPHERES (Synchronized, Position, Hold, Engage, Reorient, Experimental Satellites).
 
 [**Camp Invention:**](http://campinvention.org/) Daydreams become discoveries at this summer day camp. Created by the National Inventors Hall of Fame, Camp Invention presents essential STEM concepts through creative hands-on activities.
@@ -175,12 +158,9 @@ Sheppard Software aims to create content and games for their website with these 
 
 ## **Teachers/Educators**
 
-[**Nano Science & Engineering Outreach Education Classroom Program:**](http://www.nisenet.org/catalog/programs/nano_science_engineering_outreach_education_classroom_program) This hour long classroom program introduces nano science and nanotechnology as a leading, cutting edge science with an emphasis on nano in nature, health, energy and the environment
-
 [**Lynda:**](http://www.lynda.com/default.aspx) lynda.com is a leading online learning company that helps anyone learn business, software, technology and creative skills to achieve personal and professional goals. Through individual, corporate, academic and government subscriptions, members have access to the lynda.com video library of engaging, top-quality courses taught by recognized industry experts. The company also provides German, French and Spanish language content under the video2brain brand name.
 
 [**Code School (now Pluralsight):**](https://www.pluralsight.com/) Learn by Doing; Code School (now part of Pluralsight) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
 
 [**Pluralsight:**](http://www.pluralsight.com/academic) Your curriculum. Amplified. Prepare your students for the jobs of tomorrow, today. Give them the freedom to boost their tech & creative skills anytime, anywhere.
-
 
