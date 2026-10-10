@@ -12,6 +12,8 @@ Sheppard Software aims to create content and games for their website with these 
 2) To design games with many difficulty levels so that players will continue to be challenged no matter how far they progress. 
 3) To provide games that will exercise players' brains
 
+[**Fuuvix Games:**](https://app.fuuvix.com/games) 28 free browser games for maths, science, English and geography, for children aged about 6 to 16. Kids can play straight away with no account and no ads. Each game changes its difficulty after every answer, so a child who is struggling gets easier questions and a child who is doing well is pushed further. There are games for mental maths, fractions, BODMAS, patterns, the periodic table, flags and world geography.
+
 [**Zooniverse:**](https://www.zooniverse.org/#/) The Zooniverse provides opportunities for people around the world to contribute to real discoveries in fields ranging from astronomy to zoology. Welcome to the largest online platform for collaborative volunteer research.
 
 [**LearnToMod:**](http://www.learntomod.com/) Online and interactive. Mod Minecraft in your browser. Tutorials and puzzles help you unlock badges and learn to code.
