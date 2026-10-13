@@ -117,6 +117,8 @@ Sheppard Software aims to create content and games for their website with these 
 
 [**Robot Turtles:**](http://www.robotturtles.com/) Programming tabletop game for kids 4+. Play directional and special action cards to move turtles across a gameboard to the objective. Gameplay can also be altered to include functions - group multiple actions/directions in a repeatable pattern, then call that function with the function card.
 
+[**3D Solar System Simulator:**](https://3dsolarsystem.net/) Fly around the Sun and the eight planets in 3D, speed up time to watch the orbits, and switch to true scale to see how far apart the planets really are. Free, runs in the browser, no sign-up.
+
 ## **Math Games and Apps**
 
 [**Cool Math Games:**](http://www.coolmath-games.com/) Coolmath.com offers "math for ages 13-100" -- explanations that are easy to grasp on topics like algebra, pre-calculus and more. The creator started his career as a math teacher, and he takes great pleasure in helping people finally understand -- and even enjoy! -- doing math.
